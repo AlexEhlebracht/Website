@@ -11,6 +11,7 @@ body {
 h1 {
   font-size: 64pt;
   margin: 5px;
+  color: rgb(45, 185, 180);
 }
 
 .navbar {
